@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is an example application that demonstrates how to deploy a simple mern application using Kubernetes.
+This project is an example application that demonstrates how to deploy a simple MERN application using Kubernetes.
 
 ## Getting Started
 
