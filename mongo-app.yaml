@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mongo
-        image: mongo:6.0
+        image: mongo:latest
         ports:
         - containerPort: 27017
         env:
@@ -32,7 +32,6 @@ spec:
               key: mongo-password
 
 ---
-
 apiVersion: v1
 kind: Service
 metadata:
