@@ -71,10 +71,10 @@ minikube service webapp-service
 ### $${\color{red}Note:}$$
 
 $${\color{red}
-You \space might \space face \space issue \space while \space running \space the \space Minikube \space commands \space if \space you \space are \space using \space Windows \space 11 \space Home \space edition \space as \space Hyper-V \space is \space not \space available.
+You \space might \space face \space issue \space while \space running \space the \space Minikube \space commands \space if \space you \space are \space using \space Windows \space 11 \space Home \space edition
 }$$
 
-$${\color{red}So, \space first \space install \space Hyper-V \space in \space you \space system \space and \space then \space run \space the \space minikube \space commands.
+$${\color{red}\space as \space Hyper-V \space is \space not \space available.So, \space first \space install \space Hyper-V \space in \space you \space system \space and \space then \space run \space the \space minikube \space commands.
 }$$
 
 
